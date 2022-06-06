@@ -1,0 +1,7 @@
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Tipos de Datos Csharp\Tipos de Datos Csharp\bin\Debug\Tipos de Datos Csharp.exe.config
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Tipos de Datos Csharp\Tipos de Datos Csharp\bin\Debug\Tipos de Datos Csharp.exe
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Tipos de Datos Csharp\Tipos de Datos Csharp\bin\Debug\Tipos de Datos Csharp.pdb
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Tipos de Datos Csharp\Tipos de Datos Csharp\obj\Debug\Tipos de Datos Csharp.csproj.AssemblyReference.cache
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Tipos de Datos Csharp\Tipos de Datos Csharp\obj\Debug\Tipos de Datos Csharp.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Tipos de Datos Csharp\Tipos de Datos Csharp\obj\Debug\Tipos de Datos Csharp.exe
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Tipos de Datos Csharp\Tipos de Datos Csharp\obj\Debug\Tipos de Datos Csharp.pdb

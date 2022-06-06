@@ -1,0 +1,7 @@
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

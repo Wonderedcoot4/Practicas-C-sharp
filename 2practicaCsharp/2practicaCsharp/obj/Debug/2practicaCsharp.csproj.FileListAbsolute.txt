@@ -1,0 +1,7 @@
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\2practicaCsharp\2practicaCsharp\bin\Debug\2practicaCsharp.exe.config
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\2practicaCsharp\2practicaCsharp\bin\Debug\2practicaCsharp.exe
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\2practicaCsharp\2practicaCsharp\bin\Debug\2practicaCsharp.pdb
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\2practicaCsharp\2practicaCsharp\obj\Debug\2practicaCsharp.csproj.AssemblyReference.cache
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\2practicaCsharp\2practicaCsharp\obj\Debug\2practicaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\2practicaCsharp\2practicaCsharp\obj\Debug\2practicaCsharp.exe
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\2practicaCsharp\2practicaCsharp\obj\Debug\2practicaCsharp.pdb

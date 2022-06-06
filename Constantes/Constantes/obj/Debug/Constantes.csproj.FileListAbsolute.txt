@@ -1,0 +1,6 @@
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Constantes\Constantes\bin\Debug\Constantes.exe.config
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Constantes\Constantes\bin\Debug\Constantes.exe
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Constantes\Constantes\bin\Debug\Constantes.pdb
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Constantes\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Constantes\Constantes\obj\Debug\Constantes.exe
+C:\Users\isaac\Documents\Isaac Programacion\Programacion C# Visual Studio 2019\Constantes\Constantes\obj\Debug\Constantes.pdb
